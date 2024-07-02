@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a href="https://www.linkedin.com/in/ifthakherrahmanmohib/">
 <img src="https://i.ibb.co/PhG0nsY/Github-Banner.png" />
 </a>
 
