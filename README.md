@@ -1,5 +1,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/ifthakherrahmanmohib/">
-<img src="https://i.ibb.co/PhG0nsY/Github-Banner.png" />
+<img target="_blank" src="https://i.ibb.co/PhG0nsY/Github-Banner.png" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
