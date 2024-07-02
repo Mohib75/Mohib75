@@ -11,7 +11,7 @@
 
 <br>
   <p align=center>    
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohib75&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohib75&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=4B8BBE&hide_border=false&border_radius=30&size_weight=0.5&count_weight=0.5" />
   </p>
 
 ## :computer: Technologies
